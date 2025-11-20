@@ -15,4 +15,4 @@ jobs:
     name: "Built Branch and Release"
     runs-on: ubuntu-latest
     steps:
-      - uses: alleyinteractive/action-release@develop
+      - uses: alleyinteractive/action-release@feature/12-changelog-notes
