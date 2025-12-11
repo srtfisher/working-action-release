@@ -15,4 +15,4 @@ jobs:
     name: "Built Branch and Release"
     runs-on: ubuntu-latest
     steps:
-      - uses: alleyinteractive/action-release@feature/12-changelog-notes
+      - uses: alleyinteractive/action-release@hotfix/16/backticks-removed
