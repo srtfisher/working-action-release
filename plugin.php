@@ -3,7 +3,7 @@
  * Plugin Name: Create WordPress Plugin
  * Plugin URI: https://github.com/alleyinteractive/create-wordpress-plugin
  * Description: A skeleton WordPress plugin
- * Version: 1.2.0
+ * Version: 1.3.0
  * Author: author_name
  * Author URI: https://github.com/alleyinteractive/create-wordpress-plugin
  * Requires at least: 6.5
